@@ -27,3 +27,7 @@ This Rust project processes endpoint URLs by identifying and replacing various t
    ```bash
    cargo run
    ```
+
+
+##Video:
+https://github.com/sarthak20574/rust_assigment2-nebuliaq-placement-iiitd-SarthakDixit-2024
